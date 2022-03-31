@@ -1,0 +1,6 @@
+orange fox recovery 
+vbmeta
+dtbo
+boot
+vendor 
+system
